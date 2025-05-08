@@ -1,0 +1,317 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\ALL .NET\\My Side Projects\\UpSkillingTask\\Library System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{514D6D96-7103-4E46-AC49-FB8766FA4A74}|LibrarySystem.Api\\LibrarySystem.Api.csproj|f:\\all .net\\my side projects\\upskillingtask\\library system\\librarysystem.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514D6D96-7103-4E46-AC49-FB8766FA4A74}|LibrarySystem.Api\\LibrarySystem.Api.csproj|solutionrelative:librarysystem.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514D6D96-7103-4E46-AC49-FB8766FA4A74}|LibrarySystem.Api\\LibrarySystem.Api.csproj|f:\\all .net\\my side projects\\upskillingtask\\library system\\librarysystem.api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514D6D96-7103-4E46-AC49-FB8766FA4A74}|LibrarySystem.Api\\LibrarySystem.Api.csproj|solutionrelative:librarysystem.api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514D6D96-7103-4E46-AC49-FB8766FA4A74}|LibrarySystem.Api\\LibrarySystem.Api.csproj|f:\\all .net\\my side projects\\upskillingtask\\library system\\librarysystem.api\\mapping\\categorymapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514D6D96-7103-4E46-AC49-FB8766FA4A74}|LibrarySystem.Api\\LibrarySystem.Api.csproj|solutionrelative:librarysystem.api\\mapping\\categorymapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514D6D96-7103-4E46-AC49-FB8766FA4A74}|LibrarySystem.Api\\LibrarySystem.Api.csproj|f:\\all .net\\my side projects\\upskillingtask\\library system\\librarysystem.api\\dtos\\category\\updatecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514D6D96-7103-4E46-AC49-FB8766FA4A74}|LibrarySystem.Api\\LibrarySystem.Api.csproj|solutionrelative:librarysystem.api\\dtos\\category\\updatecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514D6D96-7103-4E46-AC49-FB8766FA4A74}|LibrarySystem.Api\\LibrarySystem.Api.csproj|f:\\all .net\\my side projects\\upskillingtask\\library system\\librarysystem.api\\dtos\\category\\addcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514D6D96-7103-4E46-AC49-FB8766FA4A74}|LibrarySystem.Api\\LibrarySystem.Api.csproj|solutionrelative:librarysystem.api\\dtos\\category\\addcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514D6D96-7103-4E46-AC49-FB8766FA4A74}|LibrarySystem.Api\\LibrarySystem.Api.csproj|f:\\all .net\\my side projects\\upskillingtask\\library system\\librarysystem.api\\dtos\\category\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514D6D96-7103-4E46-AC49-FB8766FA4A74}|LibrarySystem.Api\\LibrarySystem.Api.csproj|solutionrelative:librarysystem.api\\dtos\\category\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514D6D96-7103-4E46-AC49-FB8766FA4A74}|LibrarySystem.Api\\LibrarySystem.Api.csproj|f:\\all .net\\my side projects\\upskillingtask\\library system\\librarysystem.api\\mapping\\bookmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514D6D96-7103-4E46-AC49-FB8766FA4A74}|LibrarySystem.Api\\LibrarySystem.Api.csproj|solutionrelative:librarysystem.api\\mapping\\bookmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514D6D96-7103-4E46-AC49-FB8766FA4A74}|LibrarySystem.Api\\LibrarySystem.Api.csproj|f:\\all .net\\my side projects\\upskillingtask\\library system\\librarysystem.api\\dtos\\book\\updatebookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514D6D96-7103-4E46-AC49-FB8766FA4A74}|LibrarySystem.Api\\LibrarySystem.Api.csproj|solutionrelative:librarysystem.api\\dtos\\book\\updatebookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514D6D96-7103-4E46-AC49-FB8766FA4A74}|LibrarySystem.Api\\LibrarySystem.Api.csproj|f:\\all .net\\my side projects\\upskillingtask\\library system\\librarysystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514D6D96-7103-4E46-AC49-FB8766FA4A74}|LibrarySystem.Api\\LibrarySystem.Api.csproj|solutionrelative:librarysystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6ECD4C-C4D4-407C-B1CD-9447E5213399}|LibrarySystem.Infrastructure\\LibrarySystem.Infrastructure.csproj|f:\\all .net\\my side projects\\upskillingtask\\library system\\librarysystem.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6ECD4C-C4D4-407C-B1CD-9447E5213399}|LibrarySystem.Infrastructure\\LibrarySystem.Infrastructure.csproj|solutionrelative:librarysystem.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514D6D96-7103-4E46-AC49-FB8766FA4A74}|LibrarySystem.Api\\LibrarySystem.Api.csproj|f:\\all .net\\my side projects\\upskillingtask\\library system\\librarysystem.api\\helper\\responseapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514D6D96-7103-4E46-AC49-FB8766FA4A74}|LibrarySystem.Api\\LibrarySystem.Api.csproj|solutionrelative:librarysystem.api\\helper\\responseapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A03884-8A85-4AE4-8496-63C42DA0CB16}|LibrarySystem.Core\\LibrarySystem.Core.csproj|f:\\all .net\\my side projects\\upskillingtask\\library system\\librarysystem.core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9A03884-8A85-4AE4-8496-63C42DA0CB16}|LibrarySystem.Core\\LibrarySystem.Core.csproj|solutionrelative:librarysystem.core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514D6D96-7103-4E46-AC49-FB8766FA4A74}|LibrarySystem.Api\\LibrarySystem.Api.csproj|f:\\all .net\\my side projects\\upskillingtask\\library system\\librarysystem.api\\dtos\\book\\addbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514D6D96-7103-4E46-AC49-FB8766FA4A74}|LibrarySystem.Api\\LibrarySystem.Api.csproj|solutionrelative:librarysystem.api\\dtos\\book\\addbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514D6D96-7103-4E46-AC49-FB8766FA4A74}|LibrarySystem.Api\\LibrarySystem.Api.csproj|f:\\all .net\\my side projects\\upskillingtask\\library system\\librarysystem.api\\dtos\\book\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514D6D96-7103-4E46-AC49-FB8766FA4A74}|LibrarySystem.Api\\LibrarySystem.Api.csproj|solutionrelative:librarysystem.api\\dtos\\book\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A03884-8A85-4AE4-8496-63C42DA0CB16}|LibrarySystem.Core\\LibrarySystem.Core.csproj|f:\\all .net\\my side projects\\upskillingtask\\library system\\librarysystem.core\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9A03884-8A85-4AE4-8496-63C42DA0CB16}|LibrarySystem.Core\\LibrarySystem.Core.csproj|solutionrelative:librarysystem.core\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6ECD4C-C4D4-407C-B1CD-9447E5213399}|LibrarySystem.Infrastructure\\LibrarySystem.Infrastructure.csproj|f:\\all .net\\my side projects\\upskillingtask\\library system\\librarysystem.infrastructure\\infrastructureregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6ECD4C-C4D4-407C-B1CD-9447E5213399}|LibrarySystem.Infrastructure\\LibrarySystem.Infrastructure.csproj|solutionrelative:librarysystem.infrastructure\\infrastructureregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514D6D96-7103-4E46-AC49-FB8766FA4A74}|LibrarySystem.Api\\LibrarySystem.Api.csproj|f:\\all .net\\my side projects\\upskillingtask\\library system\\librarysystem.api\\librarysystem.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{514D6D96-7103-4E46-AC49-FB8766FA4A74}|LibrarySystem.Api\\LibrarySystem.Api.csproj|solutionrelative:librarysystem.api\\librarysystem.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6ECD4C-C4D4-407C-B1CD-9447E5213399}|LibrarySystem.Infrastructure\\LibrarySystem.Infrastructure.csproj|f:\\all .net\\my side projects\\upskillingtask\\library system\\librarysystem.infrastructure\\migrations\\20250506214545_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6ECD4C-C4D4-407C-B1CD-9447E5213399}|LibrarySystem.Infrastructure\\LibrarySystem.Infrastructure.csproj|solutionrelative:librarysystem.infrastructure\\migrations\\20250506214545_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddCategoryDto.cs",
+              "DocumentMoniker": "F:\\ALL .NET\\My Side Projects\\UpSkillingTask\\Library System\\LibrarySystem.Api\\Dtos\\Category\\AddCategoryDto.cs",
+              "RelativeDocumentMoniker": "LibrarySystem.Api\\Dtos\\Category\\AddCategoryDto.cs",
+              "ToolTip": "F:\\ALL .NET\\My Side Projects\\UpSkillingTask\\Library System\\LibrarySystem.Api\\Dtos\\Category\\AddCategoryDto.cs",
+              "RelativeToolTip": "LibrarySystem.Api\\Dtos\\Category\\AddCategoryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T23:27:51.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateCategoryDto.cs",
+              "DocumentMoniker": "F:\\ALL .NET\\My Side Projects\\UpSkillingTask\\Library System\\LibrarySystem.Api\\Dtos\\Category\\UpdateCategoryDto.cs",
+              "RelativeDocumentMoniker": "LibrarySystem.Api\\Dtos\\Category\\UpdateCategoryDto.cs",
+              "ToolTip": "F:\\ALL .NET\\My Side Projects\\UpSkillingTask\\Library System\\LibrarySystem.Api\\Dtos\\Category\\UpdateCategoryDto.cs",
+              "RelativeToolTip": "LibrarySystem.Api\\Dtos\\Category\\UpdateCategoryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T23:27:38.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryMapping.cs",
+              "DocumentMoniker": "F:\\ALL .NET\\My Side Projects\\UpSkillingTask\\Library System\\LibrarySystem.Api\\Mapping\\CategoryMapping.cs",
+              "RelativeDocumentMoniker": "LibrarySystem.Api\\Mapping\\CategoryMapping.cs",
+              "ToolTip": "F:\\ALL .NET\\My Side Projects\\UpSkillingTask\\Library System\\LibrarySystem.Api\\Mapping\\CategoryMapping.cs",
+              "RelativeToolTip": "LibrarySystem.Api\\Mapping\\CategoryMapping.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T23:18:19.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookMapping.cs",
+              "DocumentMoniker": "F:\\ALL .NET\\My Side Projects\\UpSkillingTask\\Library System\\LibrarySystem.Api\\Mapping\\BookMapping.cs",
+              "RelativeDocumentMoniker": "LibrarySystem.Api\\Mapping\\BookMapping.cs",
+              "ToolTip": "F:\\ALL .NET\\My Side Projects\\UpSkillingTask\\Library System\\LibrarySystem.Api\\Mapping\\BookMapping.cs",
+              "RelativeToolTip": "LibrarySystem.Api\\Mapping\\BookMapping.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T22:44:10.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "F:\\ALL .NET\\My Side Projects\\UpSkillingTask\\Library System\\LibrarySystem.Api\\Dtos\\Category\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "LibrarySystem.Api\\Dtos\\Category\\CategoryDto.cs",
+              "ToolTip": "F:\\ALL .NET\\My Side Projects\\UpSkillingTask\\Library System\\LibrarySystem.Api\\Dtos\\Category\\CategoryDto.cs",
+              "RelativeToolTip": "LibrarySystem.Api\\Dtos\\Category\\CategoryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T22:28:30.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "F:\\ALL .NET\\My Side Projects\\UpSkillingTask\\Library System\\LibrarySystem.Api\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "LibrarySystem.Api\\Controllers\\CategoryController.cs",
+              "ToolTip": "F:\\ALL .NET\\My Side Projects\\UpSkillingTask\\Library System\\LibrarySystem.Api\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "LibrarySystem.Api\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAB0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T21:49:25.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "F:\\ALL .NET\\My Side Projects\\UpSkillingTask\\Library System\\LibrarySystem.Api\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "LibrarySystem.Api\\Controllers\\BookController.cs",
+              "ToolTip": "F:\\ALL .NET\\My Side Projects\\UpSkillingTask\\Library System\\LibrarySystem.Api\\Controllers\\BookController.cs",
+              "RelativeToolTip": "LibrarySystem.Api\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T21:49:09.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "F:\\ALL .NET\\My Side Projects\\UpSkillingTask\\Library System\\LibrarySystem.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "LibrarySystem.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ToolTip": "F:\\ALL .NET\\My Side Projects\\UpSkillingTask\\Library System\\LibrarySystem.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "LibrarySystem.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwA4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T22:41:27.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateBookDto.cs",
+              "DocumentMoniker": "F:\\ALL .NET\\My Side Projects\\UpSkillingTask\\Library System\\LibrarySystem.Api\\Dtos\\Book\\UpdateBookDto.cs",
+              "RelativeDocumentMoniker": "LibrarySystem.Api\\Dtos\\Book\\UpdateBookDto.cs",
+              "ToolTip": "F:\\ALL .NET\\My Side Projects\\UpSkillingTask\\Library System\\LibrarySystem.Api\\Dtos\\Book\\UpdateBookDto.cs",
+              "RelativeToolTip": "LibrarySystem.Api\\Dtos\\Book\\UpdateBookDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T22:08:40.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Category.cs",
+              "DocumentMoniker": "F:\\ALL .NET\\My Side Projects\\UpSkillingTask\\Library System\\LibrarySystem.Core\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "LibrarySystem.Core\\Entities\\Category.cs",
+              "ToolTip": "F:\\ALL .NET\\My Side Projects\\UpSkillingTask\\Library System\\LibrarySystem.Core\\Entities\\Category.cs",
+              "RelativeToolTip": "LibrarySystem.Core\\Entities\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T22:28:35.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\ALL .NET\\My Side Projects\\UpSkillingTask\\Library System\\LibrarySystem.Api\\Program.cs",
+              "RelativeDocumentMoniker": "LibrarySystem.Api\\Program.cs",
+              "ToolTip": "F:\\ALL .NET\\My Side Projects\\UpSkillingTask\\Library System\\LibrarySystem.Api\\Program.cs",
+              "RelativeToolTip": "LibrarySystem.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T21:42:59.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddBookDto.cs",
+              "DocumentMoniker": "F:\\ALL .NET\\My Side Projects\\UpSkillingTask\\Library System\\LibrarySystem.Api\\Dtos\\Book\\AddBookDto.cs",
+              "RelativeDocumentMoniker": "LibrarySystem.Api\\Dtos\\Book\\AddBookDto.cs",
+              "ToolTip": "F:\\ALL .NET\\My Side Projects\\UpSkillingTask\\Library System\\LibrarySystem.Api\\Dtos\\Book\\AddBookDto.cs",
+              "RelativeToolTip": "LibrarySystem.Api\\Dtos\\Book\\AddBookDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T22:05:51.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ResponseApi.cs",
+              "DocumentMoniker": "F:\\ALL .NET\\My Side Projects\\UpSkillingTask\\Library System\\LibrarySystem.Api\\Helper\\ResponseApi.cs",
+              "RelativeDocumentMoniker": "LibrarySystem.Api\\Helper\\ResponseApi.cs",
+              "ToolTip": "F:\\ALL .NET\\My Side Projects\\UpSkillingTask\\Library System\\LibrarySystem.Api\\Helper\\ResponseApi.cs",
+              "RelativeToolTip": "LibrarySystem.Api\\Helper\\ResponseApi.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwAIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T21:52:30.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BookDto.cs",
+              "DocumentMoniker": "F:\\ALL .NET\\My Side Projects\\UpSkillingTask\\Library System\\LibrarySystem.Api\\Dtos\\Book\\BookDto.cs",
+              "RelativeDocumentMoniker": "LibrarySystem.Api\\Dtos\\Book\\BookDto.cs",
+              "ToolTip": "F:\\ALL .NET\\My Side Projects\\UpSkillingTask\\Library System\\LibrarySystem.Api\\Dtos\\Book\\BookDto.cs",
+              "RelativeToolTip": "LibrarySystem.Api\\Dtos\\Book\\BookDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T22:06:05.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Book.cs",
+              "DocumentMoniker": "F:\\ALL .NET\\My Side Projects\\UpSkillingTask\\Library System\\LibrarySystem.Core\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "LibrarySystem.Core\\Entities\\Book.cs",
+              "ToolTip": "F:\\ALL .NET\\My Side Projects\\UpSkillingTask\\Library System\\LibrarySystem.Core\\Entities\\Book.cs",
+              "RelativeToolTip": "LibrarySystem.Core\\Entities\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T22:06:07.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "InfrastructureRegistration.cs",
+              "DocumentMoniker": "F:\\ALL .NET\\My Side Projects\\UpSkillingTask\\Library System\\LibrarySystem.Infrastructure\\InfrastructureRegistration.cs",
+              "RelativeDocumentMoniker": "LibrarySystem.Infrastructure\\InfrastructureRegistration.cs",
+              "ToolTip": "F:\\ALL .NET\\My Side Projects\\UpSkillingTask\\Library System\\LibrarySystem.Infrastructure\\InfrastructureRegistration.cs",
+              "RelativeToolTip": "LibrarySystem.Infrastructure\\InfrastructureRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T21:47:13.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250506214545_init.cs",
+              "DocumentMoniker": "F:\\ALL .NET\\My Side Projects\\UpSkillingTask\\Library System\\LibrarySystem.Infrastructure\\Migrations\\20250506214545_init.cs",
+              "RelativeDocumentMoniker": "LibrarySystem.Infrastructure\\Migrations\\20250506214545_init.cs",
+              "ToolTip": "F:\\ALL .NET\\My Side Projects\\UpSkillingTask\\Library System\\LibrarySystem.Infrastructure\\Migrations\\20250506214545_init.cs",
+              "RelativeToolTip": "LibrarySystem.Infrastructure\\Migrations\\20250506214545_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T21:45:45.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LibrarySystem.Api.http",
+              "DocumentMoniker": "F:\\ALL .NET\\My Side Projects\\UpSkillingTask\\Library System\\LibrarySystem.Api\\LibrarySystem.Api.http",
+              "RelativeDocumentMoniker": "LibrarySystem.Api\\LibrarySystem.Api.http",
+              "ToolTip": "F:\\ALL .NET\\My Side Projects\\UpSkillingTask\\Library System\\LibrarySystem.Api\\LibrarySystem.Api.http",
+              "RelativeToolTip": "LibrarySystem.Api\\LibrarySystem.Api.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-06T21:44:53.045Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

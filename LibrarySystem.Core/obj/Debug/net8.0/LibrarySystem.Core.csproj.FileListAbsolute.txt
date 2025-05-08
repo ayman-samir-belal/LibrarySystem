@@ -1,0 +1,11 @@
+F:\ALL .NET\My Side Projects\UpSkillingTask\Library System\LibrarySystem.Core\bin\Debug\net8.0\LibrarySystem.Core.deps.json
+F:\ALL .NET\My Side Projects\UpSkillingTask\Library System\LibrarySystem.Core\bin\Debug\net8.0\LibrarySystem.Core.dll
+F:\ALL .NET\My Side Projects\UpSkillingTask\Library System\LibrarySystem.Core\bin\Debug\net8.0\LibrarySystem.Core.pdb
+F:\ALL .NET\My Side Projects\UpSkillingTask\Library System\LibrarySystem.Core\obj\Debug\net8.0\LibrarySystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\ALL .NET\My Side Projects\UpSkillingTask\Library System\LibrarySystem.Core\obj\Debug\net8.0\LibrarySystem.Core.AssemblyInfoInputs.cache
+F:\ALL .NET\My Side Projects\UpSkillingTask\Library System\LibrarySystem.Core\obj\Debug\net8.0\LibrarySystem.Core.AssemblyInfo.cs
+F:\ALL .NET\My Side Projects\UpSkillingTask\Library System\LibrarySystem.Core\obj\Debug\net8.0\LibrarySystem.Core.csproj.CoreCompileInputs.cache
+F:\ALL .NET\My Side Projects\UpSkillingTask\Library System\LibrarySystem.Core\obj\Debug\net8.0\LibrarySystem.Core.dll
+F:\ALL .NET\My Side Projects\UpSkillingTask\Library System\LibrarySystem.Core\obj\Debug\net8.0\refint\LibrarySystem.Core.dll
+F:\ALL .NET\My Side Projects\UpSkillingTask\Library System\LibrarySystem.Core\obj\Debug\net8.0\LibrarySystem.Core.pdb
+F:\ALL .NET\My Side Projects\UpSkillingTask\Library System\LibrarySystem.Core\obj\Debug\net8.0\ref\LibrarySystem.Core.dll

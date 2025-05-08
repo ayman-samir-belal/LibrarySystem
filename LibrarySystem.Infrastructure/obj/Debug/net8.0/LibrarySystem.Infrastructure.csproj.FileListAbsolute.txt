@@ -1,0 +1,17 @@
+F:\ALL .NET\My Side Projects\UpSkillingTask\Library System\LibrarySystem.Infrastructure\bin\Debug\net8.0\LibrarySystem.Infrastructure.deps.json
+F:\ALL .NET\My Side Projects\UpSkillingTask\Library System\LibrarySystem.Infrastructure\bin\Debug\net8.0\LibrarySystem.Infrastructure.runtimeconfig.json
+F:\ALL .NET\My Side Projects\UpSkillingTask\Library System\LibrarySystem.Infrastructure\bin\Debug\net8.0\LibrarySystem.Infrastructure.dll
+F:\ALL .NET\My Side Projects\UpSkillingTask\Library System\LibrarySystem.Infrastructure\bin\Debug\net8.0\LibrarySystem.Infrastructure.pdb
+F:\ALL .NET\My Side Projects\UpSkillingTask\Library System\LibrarySystem.Infrastructure\bin\Debug\net8.0\LibrarySystem.Core.dll
+F:\ALL .NET\My Side Projects\UpSkillingTask\Library System\LibrarySystem.Infrastructure\bin\Debug\net8.0\LibrarySystem.Core.pdb
+F:\ALL .NET\My Side Projects\UpSkillingTask\Library System\LibrarySystem.Infrastructure\obj\Debug\net8.0\LibrarySystem.Infrastructure.csproj.AssemblyReference.cache
+F:\ALL .NET\My Side Projects\UpSkillingTask\Library System\LibrarySystem.Infrastructure\obj\Debug\net8.0\LibrarySystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\ALL .NET\My Side Projects\UpSkillingTask\Library System\LibrarySystem.Infrastructure\obj\Debug\net8.0\LibrarySystem.Infrastructure.AssemblyInfoInputs.cache
+F:\ALL .NET\My Side Projects\UpSkillingTask\Library System\LibrarySystem.Infrastructure\obj\Debug\net8.0\LibrarySystem.Infrastructure.AssemblyInfo.cs
+F:\ALL .NET\My Side Projects\UpSkillingTask\Library System\LibrarySystem.Infrastructure\obj\Debug\net8.0\LibrarySystem.Infrastructure.csproj.CoreCompileInputs.cache
+F:\ALL .NET\My Side Projects\UpSkillingTask\Library System\LibrarySystem.Infrastructure\obj\Debug\net8.0\LibraryS.0686C100.Up2Date
+F:\ALL .NET\My Side Projects\UpSkillingTask\Library System\LibrarySystem.Infrastructure\obj\Debug\net8.0\LibrarySystem.Infrastructure.dll
+F:\ALL .NET\My Side Projects\UpSkillingTask\Library System\LibrarySystem.Infrastructure\obj\Debug\net8.0\refint\LibrarySystem.Infrastructure.dll
+F:\ALL .NET\My Side Projects\UpSkillingTask\Library System\LibrarySystem.Infrastructure\obj\Debug\net8.0\LibrarySystem.Infrastructure.pdb
+F:\ALL .NET\My Side Projects\UpSkillingTask\Library System\LibrarySystem.Infrastructure\obj\Debug\net8.0\LibrarySystem.Infrastructure.genruntimeconfig.cache
+F:\ALL .NET\My Side Projects\UpSkillingTask\Library System\LibrarySystem.Infrastructure\obj\Debug\net8.0\ref\LibrarySystem.Infrastructure.dll
