@@ -23,7 +23,7 @@ namespace LibrarySystem.Api.Controllers
         {
             try
             {
-                var query = await _unitOfWork.BookRepository.GetAllAsync();
+                var query = await _unitOfWork.BookRepository.GetAllAsync(b => b.Category);
                 var result = _mapper.Map<List<BookDto>>(query);
                 return Ok(new ResponseApi<IReadOnlyList<BookDto>>(200, result));
             }
@@ -34,20 +34,22 @@ namespace LibrarySystem.Api.Controllers
             }
 
         }
-        [HttpGet("GetById/{id}")]
+        [HttpGet("GetByIdAsync/{id}")]
 
-        public async Task<IActionResult> GetById(int id)
+        public async Task<IActionResult> GetByIdAsync(int id)
         {
             try
             {
-                var result = await _unitOfWork.BookRepository.GetById(id);
-
-                return Ok(new ResponseApi<Book>(200, result));
+                var query = await _unitOfWork.BookRepository.GetByIdAsync(id, b => b.Category);
+                if (query == null)
+                    return NotFound(new ResponseApi<string>(404, $"Book with Id={id} not found"));
+                var result = _mapper.Map<BookDto>(query);
+                return Ok(new ResponseApi<BookDto>(200, result));
             }
             catch (Exception ex)
             {
 
-                return BadRequest(ex.Message);
+                return BadRequest(new ResponseApi<string>(400, message: ex.Message));
             }
 
         }
@@ -65,14 +67,14 @@ namespace LibrarySystem.Api.Controllers
                 else
                 {
 
-                    return BadRequest((new ResponseApi<Book>(400, new Book())));
+                    return BadRequest((new ResponseApi<string>(400, "Bad request")));
                 }
 
             }
             catch (Exception ex)
             {
 
-                return BadRequest(ex.Message);
+                return BadRequest(new ResponseApi<string>(400, message: ex.Message));
             }
 
         }
@@ -82,9 +84,11 @@ namespace LibrarySystem.Api.Controllers
         {
             try
             {
+
+
                 if (updateBook != null)
                 {
-                    var existingBook = await _unitOfWork.BookRepository.GetById(id);
+                    var existingBook = await _unitOfWork.BookRepository.GetByIdAsync(id);
                     if (existingBook == null) return NotFound($"the book with Id= {id} not found");
                     // var result = _mapper.Map<Book>(updateBook);
                     _mapper.Map(updateBook, existingBook);
@@ -94,14 +98,14 @@ namespace LibrarySystem.Api.Controllers
                 else
                 {
 
-                    return BadRequest((new ResponseApi<Book>(400, new Book())));
+                    return BadRequest((new ResponseApi<string>(400, "Invalid book data")));
                 }
 
             }
             catch (Exception ex)
             {
 
-                return BadRequest(ex.Message);
+                return BadRequest(new ResponseApi<string>(400, message: ex.Message));
             }
         }
 
@@ -111,13 +115,13 @@ namespace LibrarySystem.Api.Controllers
             try
             {
                 await _unitOfWork.BookRepository.DeleteAsync(id);
-                return Ok(new ResponseApi<Book>(200, new Book(), "Book Deleted successfully"));
+                return Ok(new ResponseApi<Book>(200, "Book Deleted successfully"));
 
             }
             catch (Exception ex)
             {
 
-                return BadRequest(ex.Message);
+                return BadRequest(new ResponseApi<string>(400, message: ex.Message));
             }
         }
     }

@@ -9,3 +9,4 @@ F:\ALL .NET\My Side Projects\UpSkillingTask\Library System\LibrarySystem.Core\ob
 F:\ALL .NET\My Side Projects\UpSkillingTask\Library System\LibrarySystem.Core\obj\Debug\net8.0\refint\LibrarySystem.Core.dll
 F:\ALL .NET\My Side Projects\UpSkillingTask\Library System\LibrarySystem.Core\obj\Debug\net8.0\LibrarySystem.Core.pdb
 F:\ALL .NET\My Side Projects\UpSkillingTask\Library System\LibrarySystem.Core\obj\Debug\net8.0\ref\LibrarySystem.Core.dll
+F:\ALL .NET\My Side Projects\UpSkillingTask\Library System\LibrarySystem.Core\obj\Debug\net8.0\LibrarySystem.Core.sourcelink.json

@@ -147,3 +147,4 @@ F:\ALL .NET\My Side Projects\UpSkillingTask\Library System\LibrarySystem.Api\obj
 F:\ALL .NET\My Side Projects\UpSkillingTask\Library System\LibrarySystem.Api\obj\Debug\net8.0\LibrarySystem.Api.genruntimeconfig.cache
 F:\ALL .NET\My Side Projects\UpSkillingTask\Library System\LibrarySystem.Api\obj\Debug\net8.0\ref\LibrarySystem.Api.dll
 F:\ALL .NET\My Side Projects\UpSkillingTask\Library System\LibrarySystem.Api\bin\Debug\net8.0\AutoMapper.dll
+F:\ALL .NET\My Side Projects\UpSkillingTask\Library System\LibrarySystem.Api\obj\Debug\net8.0\LibrarySystem.Api.sourcelink.json

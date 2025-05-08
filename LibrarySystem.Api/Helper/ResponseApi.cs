@@ -2,11 +2,19 @@
 {
     public class ResponseApi<T>
     {
-        public ResponseApi(int statusCode, T result, string message = null)
+
+
+        public ResponseApi(int statusCode, T? result = default, string? message = null)
         {
             StatusCode = statusCode;
             Message = message ?? GetMessageFromStatusCode(StatusCode);
             Data = result;
+        }
+        public ResponseApi(int statusCode, string? message = null)
+        {
+            StatusCode = statusCode;
+            Message = message ?? GetMessageFromStatusCode(StatusCode);
+
         }
         private string GetMessageFromStatusCode(int statusCode)
         {
@@ -29,7 +37,7 @@
         }
         public int StatusCode { get; set; }
         public string? Message { get; set; }
-        public T Data { get; set; }
+        public T? Data { get; set; }
 
     }
 }

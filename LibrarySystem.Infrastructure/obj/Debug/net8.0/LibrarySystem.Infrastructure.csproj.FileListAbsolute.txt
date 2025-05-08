@@ -15,3 +15,4 @@ F:\ALL .NET\My Side Projects\UpSkillingTask\Library System\LibrarySystem.Infrast
 F:\ALL .NET\My Side Projects\UpSkillingTask\Library System\LibrarySystem.Infrastructure\obj\Debug\net8.0\LibrarySystem.Infrastructure.pdb
 F:\ALL .NET\My Side Projects\UpSkillingTask\Library System\LibrarySystem.Infrastructure\obj\Debug\net8.0\LibrarySystem.Infrastructure.genruntimeconfig.cache
 F:\ALL .NET\My Side Projects\UpSkillingTask\Library System\LibrarySystem.Infrastructure\obj\Debug\net8.0\ref\LibrarySystem.Infrastructure.dll
+F:\ALL .NET\My Side Projects\UpSkillingTask\Library System\LibrarySystem.Infrastructure\obj\Debug\net8.0\LibrarySystem.Infrastructure.sourcelink.json

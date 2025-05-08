@@ -35,15 +35,15 @@ namespace LibrarySystem.Api.Controllers
             }
 
         }
-        [HttpGet("GetById/{id}")]
+        [HttpGet("GetByIdAsync/{id}")]
 
-        public async Task<IActionResult> GetById(int id)
+        public async Task<IActionResult> GetByIdAsync(int id)
         {
             try
             {
-                var result = await _unitOfWork.CategoryRepository.GetById(id);
-
-                return Ok(new ResponseApi<Category>(200, result));
+                var query = await _unitOfWork.CategoryRepository.GetByIdAsync(id);
+                var result = _mapper.Map<CategoryDto>(query);
+                return Ok(new ResponseApi<CategoryDto>(200, result));
             }
             catch (Exception ex)
             {
@@ -61,11 +61,11 @@ namespace LibrarySystem.Api.Controllers
                 {
                     var result = _mapper.Map<Category>(addCategory);
                     await _unitOfWork.CategoryRepository.AddAsync(result);
-                    return Ok(new ResponseApi<Category>(201, result));
+                    return Ok(new ResponseApi<string>(201, "category has been Added sucessfully"));
                 }
                 else
                 {
-                    return BadRequest((new ResponseApi<Category>(400, new Category())));
+                    return BadRequest((new ResponseApi<string>(400, "Invalid Category Data")));
                 }
 
             }
@@ -84,17 +84,17 @@ namespace LibrarySystem.Api.Controllers
             {
                 if (updateCategory != null)
                 {
-                    var existingCategory = await _unitOfWork.CategoryRepository.GetById(id);
+                    var existingCategory = await _unitOfWork.CategoryRepository.GetByIdAsync(id);
                     if (existingCategory == null) return NotFound($"the category with Id= {id} not found");
                     // var result = _mapper.Map<Book>(updateBook);
                     _mapper.Map(updateCategory, existingCategory);
                     await _unitOfWork.CategoryRepository.UpdateAsync(existingCategory);
-                    return Ok(new ResponseApi<Category>(200, existingCategory, "category updated successfully"));
+                    return Ok(new ResponseApi<string>(200, "category updated successfully"));
                 }
                 else
                 {
 
-                    return BadRequest((new ResponseApi<Book>(400, new Book())));
+                    return BadRequest((new ResponseApi<string>(400, "Invalid Category Data")));
                 }
 
             }
@@ -111,7 +111,7 @@ namespace LibrarySystem.Api.Controllers
             try
             {
                 await _unitOfWork.CategoryRepository.DeleteAsync(id);
-                return Ok(new ResponseApi<Category>(200, new Category(), "category Deleted successfully"));
+                return Ok(new ResponseApi<string>(200, "category Deleted successfully"));
 
             }
             catch (Exception ex)

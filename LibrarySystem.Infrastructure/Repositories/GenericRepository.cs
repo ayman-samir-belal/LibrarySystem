@@ -1,6 +1,7 @@
 ﻿using LibrarySystem.Core.Interfaces;
 using LibrarySystem.Infrastructure.Data;
 using Microsoft.EntityFrameworkCore;
+using System.Linq.Expressions;
 
 namespace LibrarySystem.Infrastructure.Repositories
 {
@@ -35,9 +36,30 @@ namespace LibrarySystem.Infrastructure.Repositories
             return result;
         }
 
-        public async Task<T> GetById(int id)
+        public async Task<IReadOnlyList<T>> GetAllAsync(params Expression<Func<T, object>>[] includes)
+        {
+            var query = _context.Set<T>().AsQueryable();
+            foreach (var item in includes)
+            {
+                query = query.Include(item);
+            }
+            return await query.ToListAsync();
+        }
+
+        public async Task<T> GetByIdAsync(int id)
         {
             var entity = await _context.Set<T>().FindAsync(id);
+            return entity;
+        }
+
+        public async Task<T> GetByIdAsync(int id, params Expression<Func<T, object>>[] includes)
+        {
+            var query = _context.Set<T>().AsQueryable();
+            foreach (var item in includes)
+            {
+                query = query.Include(item);
+            }
+            var entity = await query.FirstOrDefaultAsync(x => EF.Property<int>(x, "Id") == id);
             return entity;
         }
 
